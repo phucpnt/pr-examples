@@ -10,6 +10,7 @@ look like:
   * that one
   * the other one
 
+Commit 3 with update
 Note that --- not considering the asterisk --- the actual text
 content starts at 4-columns in.
 

@@ -8,6 +8,7 @@ look like:
 
   * this one
   * that one
+  * that two
   * the other one
 
 Note that --- not considering the asterisk --- the actual text

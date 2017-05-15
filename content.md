@@ -9,6 +9,7 @@ look like:
   * this one
   * that one
   * that commit-2
+  * that two
   * the other one
 
 Note that --- not considering the asterisk --- the actual text
